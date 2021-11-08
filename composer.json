@@ -1,0 +1,19 @@
+{
+    "name": "sarbaz/jin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jin\\": "."
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahsan-Sarbaz",
+            "email": "geeksdotpk@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.3",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
